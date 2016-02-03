@@ -4,6 +4,7 @@ build/img
 build/js
 build/*.html
 
+.grunt/
 .Saved/
 _arc/
 bower_components/
